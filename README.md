@@ -1,5 +1,5 @@
 # JavaPractice
-Doing some Java exercises
+Doing some Java exercises.
 
 `Infection.java` implements a recursive version of the infection spread problem.
 
